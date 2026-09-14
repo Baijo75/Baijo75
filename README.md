@@ -14,10 +14,6 @@
   </a>
   <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Baijo75">
-    <img src="https://img.shields.io/badge/GitHub-Baijo75-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
@@ -99,22 +95,6 @@ Apasionat per la tecnologia, el desenvolupament de programari i la gestió de si
 
 - **Competències clau**: Resolució de problemes • Comunicació assertiva • Capacitat analítica i operativa • Empatia i canalització de conflictes • Adaptabilitat i aprenentatge constant.
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baijo75&show_icons=true&theme=tokyonight&hide_border=true" alt="Àlex's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baijo75&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Contacte / Get in Touch
-
-- ✉️ **Correu electrònic**: [alexcaballearasa@gmail.com](mailto:alexcaballearasa@gmail.com)
-- 💼 **LinkedIn**: [Perfil de LinkedIn](https://linkedin.com/in/)
-- 🐙 **GitHub**: [@Baijo75](https://github.com/Baijo75)
