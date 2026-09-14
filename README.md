@@ -93,8 +93,6 @@ Apasionat per la tecnologia, el desenvolupament de programari i la gestió de si
 | **Castellà** | Natiu |
 | **Anglès** | A2 (en aprenentatge i millora contínua) |
 
-- **Competències clau**: Resolució de problemes • Comunicació assertiva • Capacitat analítica i operativa • Empatia i canalització de conflictes • Adaptabilitat i aprenentatge constant.
-
 
 
 
